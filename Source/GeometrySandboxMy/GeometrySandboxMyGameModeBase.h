@@ -3,9 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
-
-#include <ThirdParty/CryptoPP/5.6.5/include/cryptlib.h>
-
 #include "GameFramework/GameModeBase.h"
 #include "GeometrySandboxMyGameModeBase.generated.h"
 

@@ -6,9 +6,6 @@
 #include "GameFramework/PlayerController.h"
 #include "SandboxPlayerController.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class GEOMETRYSANDBOXMY_API ASandboxPlayerController : public APlayerController
 {
